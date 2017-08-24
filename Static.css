@@ -1,0 +1,46 @@
+/*Regal purple: rgba(71, 19, 107, 0.8)*/
+
+body {
+	border: 20px solid rgba(27, 20, 99, 0.8);
+	max-width: 800px;
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px;
+
+}
+
+h3 {
+	font-size: 15px;
+	letter-spacing: 2px;
+	color: rgb(206, 192, 64);
+	font-style: italic;
+
+}
+
+div p {
+	padding-bottom: 30px;
+	border-bottom: 2px solid rgba(27, 20, 99, 0.8);
+}
+
+.para{
+
+	border-left: 10px solid rgba(206, 192, 64, 0.8);
+	padding-left: 5px
+}
+
+h2 {
+
+	font-family: 'Pacifico', cursive;
+	color: rgb(27, 20, 99)
+
+}
+
+.padtop {
+
+	padding-top: 20px;
+}
+
+p {
+	font-weight: bold;
+	font-family: 'Cinzel', serif;
+}
